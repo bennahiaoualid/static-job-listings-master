@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bennahiaoualid/static-job-listings-master)
-- Live Site URL: [Add live site URL here](https://bennahiaoualid.github.io/static-job-listings-master/)
+- Solution URL: [https://github.com/bennahiaoualid/static-job-listings-master](https://github.com/bennahiaoualid/static-job-listings-master)
+- Live Site URL: [https://bennahiaoualid.github.io/static-job-listings-master/](https://bennahiaoualid.github.io/static-job-listings-master/)
 
 ## My process
 
